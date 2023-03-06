@@ -22,7 +22,7 @@ import java.util.Scanner;
 
 public class ChallengeDay8 {
     public static void main(String[] args) {
-        LaunchWindow launchWindow = new LaunchWindow();
+        //LaunchWindow launchWindow = new LaunchWindow();
         Scanner input = new Scanner(System.in);
         System.out.println("You may provide the # of the target rows: ");
         int targetRow = input.nextInt();
